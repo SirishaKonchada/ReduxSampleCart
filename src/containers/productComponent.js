@@ -32,3 +32,10 @@ const ProductComponent = ()=>{
 }
 
 export default ProductComponent;
+
+// var movies = ()=>{
+//     axios.get(`https://jsonmock.hackerrank.com/api/movies?year=${year}`)
+//     .then(res=>{
+//       setList(res.data.data)
+//     })
+//   }
